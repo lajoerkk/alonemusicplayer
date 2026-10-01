@@ -1,6 +1,4 @@
-============================================================
 Background Audio Injector for GTA 3
-============================================================
 
 DESCRIPTION:
 A small ASI plugin I developed for my mod "Grand Theft Alone III" for the sole purpose of playing background music during gameplay. It hooks directly into HSTREAM in the Miles middleware without touching existing ambient audio streams or radio stations.
